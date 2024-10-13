@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MTR-React/static/css/main.51ea5dee.css",
+    "main.js": "/MTR-React/static/js/main.cb67b598.js",
+    "index.html": "/MTR-React/index.html",
+    "main.51ea5dee.css.map": "/MTR-React/static/css/main.51ea5dee.css.map",
+    "main.cb67b598.js.map": "/MTR-React/static/js/main.cb67b598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51ea5dee.css",
+    "static/js/main.cb67b598.js"
+  ]
+}
